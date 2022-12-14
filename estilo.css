@@ -1,0 +1,186 @@
+body {
+	background-color: #eee;
+	margin: 0;
+}
+.body2{
+	margin:10;
+}
+.banner {
+	background-image: url(https://i.blogs.es/1aad84/marvel/1366_521.jpeg );
+	background-size: cover;
+	background-position: center center;
+	padding:100px 30px;
+}
+h1 {
+	color: white;
+	text-align:center;
+	font-size:40px;
+}
+h2 {
+	color: white;
+	text-align:center;
+	font-size:30px
+}
+.index{
+	max-width: none;
+	height: 60px;
+	background-color:black;
+	text-align: center;
+}
+a {
+	color: white;
+	padding: 1em;
+	font-size:25px;
+	
+}
+h3{
+	text-align:center;
+	font-size: 30px;
+}
+p{
+	text-align: center;
+	font-size:24px;
+	padding: 1em;
+}
+
+.list {
+	font-size:24px;
+	padding: 1em;
+	position:absolute;
+	left:100;
+	top:900;
+}
+.imagen{
+	width:500;
+	height:300;
+	position:absolute;
+	right:200;
+	top:900;
+}
+.div1{
+	position:absolute;
+	top:600;
+	left:600;
+	width:700;
+	height:500;
+	font-size:24px;
+}
+.imagen2{
+	position:absolute;
+	left:100px;
+	width:500;
+	height:300;
+}
+.imagen3{
+	position:absolute;
+	right:100px;
+	width:500;
+	height:400;
+	top:350;
+}
+.div2{
+	position:absolute;
+	top:440;
+	right:600;
+	width:700;
+	height:500;
+	font-size:24px;
+}
+.imagen4{
+	position:absolute;
+	right:700;
+	width:500;
+	height:300;
+	top:860;
+}
+.div3{
+	position:absolute;
+	top:850;
+	right:10;
+	width:700;
+	height:500;
+	font-size:24px;
+}
+.imagen5{
+	position:absolute;
+	left:430px;
+	width:500;
+	height:300;
+	top:540;
+}
+.div4{
+	position:absolute;
+	top:830;
+	text-align:center;
+	left:180;
+	width:1000;
+	height:500;
+	font-size:24px;
+}
+.video{
+	position:absolute;
+	top:1100;
+	left:100;
+	width:560; 
+	height:315; 
+}
+.video2{
+	position:absolute;
+	top:1100;
+	right:100;
+	width:560; 
+	height:315; 
+}
+.div5{
+	position:absolute;
+	top:1400;
+	left:50;
+	width:700;
+	height:500;
+}
+.imgyo{
+	position:absolute;
+	top:490;
+	left:200px;
+	width:200;
+	height:300;
+}
+.div6{
+	position:absolute;
+	top:560;
+	right:200;
+	font-size:24;
+}
+.div7{
+	position:absolute;
+	top:900;
+	padding: 1em;
+	font-size:24;
+}
+.denlace{
+	color:Black;
+}
+.hora {
+	position:absolute;
+	top:1300;
+	left:600;
+	display: flex;
+	font-size:20;
+}
+.hora3{
+	position:absolute;
+	top:1500;
+	left:700;
+	display: flex;
+	font-size:20;
+}
+.hora2{
+	position:absolute;
+	top:1300;
+	right:500;
+	display: flex;
+	font-size:20;
+
+}
+
+
